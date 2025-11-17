@@ -1,0 +1,11 @@
+{
+  "name": "Mech Ranger Desert Patrol",
+  "description": "Earthy armor palette with warm highlights for the mech ranger portrait series.",
+  "colors": [
+    { "name": "Armor Olive", "hex": "#5C6A3D" },
+    { "name": "Dust Brown", "hex": "#8B6B3F" },
+    { "name": "Visor Amber", "hex": "#FFB347" },
+    { "name": "Shadow Slate", "hex": "#1A1F2B" },
+    { "name": "Accent Teal", "hex": "#3BA7A6" }
+  ]
+}
