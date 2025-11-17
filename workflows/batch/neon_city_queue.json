@@ -1,0 +1,247 @@
+{
+  "jobs": [
+    {
+      "prompt": "ultra wide shot of a neon-lit mega city at dusk, reflective rain-soaked streets, volumetric fog, glowing holographic billboards, cinematic lighting, vibrant magenta and cyan color palette, sharp focus, detailed architecture, 35mm lens, film grain, soft rain, empty boulevard, solitary figure holding an umbrella",
+      "negative_prompt": "low detail, deformed, distorted, text, watermark, logo, low resolution, oversaturated, noisy background, monochrome",
+      "steps": 35,
+      "cfg_scale": 7.5,
+      "sampler": "DPM++ 2M Karras",
+      "resolution": "768x512",
+      "palette": "assets/palettes/2025-11-17_neon-city.json"
+    },
+    {
+      "prompt": "ultra wide shot of a neon-lit mega city at dusk, reflective rain-soaked streets, volumetric fog, glowing holographic billboards, cinematic lighting, vibrant magenta and cyan color palette, sharp focus, detailed architecture, 35mm lens, film grain, soft rain, empty boulevard, sleek hover car trail",
+      "negative_prompt": "low detail, deformed, distorted, text, watermark, logo, low resolution, oversaturated, noisy background, monochrome",
+      "steps": 35,
+      "cfg_scale": 7.5,
+      "sampler": "DPM++ 2M Karras",
+      "resolution": "768x512",
+      "palette": "assets/palettes/2025-11-17_neon-city.json"
+    },
+    {
+      "prompt": "ultra wide shot of a neon-lit mega city at dusk, reflective rain-soaked streets, volumetric fog, glowing holographic billboards, cinematic lighting, vibrant magenta and cyan color palette, sharp focus, detailed architecture, 35mm lens, film grain, soft rain, empty boulevard, street vendor stall with warm lanterns",
+      "negative_prompt": "low detail, deformed, distorted, text, watermark, logo, low resolution, oversaturated, noisy background, monochrome",
+      "steps": 35,
+      "cfg_scale": 7.5,
+      "sampler": "DPM++ 2M Karras",
+      "resolution": "768x512",
+      "palette": "assets/palettes/2025-11-17_neon-city.json"
+    },
+    {
+      "prompt": "ultra wide shot of a neon-lit mega city at dusk, reflective rain-soaked streets, volumetric fog, glowing holographic billboards, cinematic lighting, vibrant magenta and cyan color palette, sharp focus, detailed architecture, 35mm lens, film grain, soft rain, hover traffic, solitary figure holding an umbrella",
+      "negative_prompt": "low detail, deformed, distorted, text, watermark, logo, low resolution, oversaturated, noisy background, monochrome",
+      "steps": 35,
+      "cfg_scale": 7.5,
+      "sampler": "DPM++ 2M Karras",
+      "resolution": "768x512",
+      "palette": "assets/palettes/2025-11-17_neon-city.json"
+    },
+    {
+      "prompt": "ultra wide shot of a neon-lit mega city at dusk, reflective rain-soaked streets, volumetric fog, glowing holographic billboards, cinematic lighting, vibrant magenta and cyan color palette, sharp focus, detailed architecture, 35mm lens, film grain, soft rain, hover traffic, sleek hover car trail",
+      "negative_prompt": "low detail, deformed, distorted, text, watermark, logo, low resolution, oversaturated, noisy background, monochrome",
+      "steps": 35,
+      "cfg_scale": 7.5,
+      "sampler": "DPM++ 2M Karras",
+      "resolution": "768x512",
+      "palette": "assets/palettes/2025-11-17_neon-city.json"
+    },
+    {
+      "prompt": "ultra wide shot of a neon-lit mega city at dusk, reflective rain-soaked streets, volumetric fog, glowing holographic billboards, cinematic lighting, vibrant magenta and cyan color palette, sharp focus, detailed architecture, 35mm lens, film grain, soft rain, hover traffic, street vendor stall with warm lanterns",
+      "negative_prompt": "low detail, deformed, distorted, text, watermark, logo, low resolution, oversaturated, noisy background, monochrome",
+      "steps": 35,
+      "cfg_scale": 7.5,
+      "sampler": "DPM++ 2M Karras",
+      "resolution": "768x512",
+      "palette": "assets/palettes/2025-11-17_neon-city.json"
+    },
+    {
+      "prompt": "ultra wide shot of a neon-lit mega city at dusk, reflective rain-soaked streets, volumetric fog, glowing holographic billboards, cinematic lighting, vibrant magenta and cyan color palette, sharp focus, detailed architecture, 35mm lens, film grain, soft rain, rush hour crowds, solitary figure holding an umbrella",
+      "negative_prompt": "low detail, deformed, distorted, text, watermark, logo, low resolution, oversaturated, noisy background, monochrome",
+      "steps": 35,
+      "cfg_scale": 7.5,
+      "sampler": "DPM++ 2M Karras",
+      "resolution": "768x512",
+      "palette": "assets/palettes/2025-11-17_neon-city.json"
+    },
+    {
+      "prompt": "ultra wide shot of a neon-lit mega city at dusk, reflective rain-soaked streets, volumetric fog, glowing holographic billboards, cinematic lighting, vibrant magenta and cyan color palette, sharp focus, detailed architecture, 35mm lens, film grain, soft rain, rush hour crowds, sleek hover car trail",
+      "negative_prompt": "low detail, deformed, distorted, text, watermark, logo, low resolution, oversaturated, noisy background, monochrome",
+      "steps": 35,
+      "cfg_scale": 7.5,
+      "sampler": "DPM++ 2M Karras",
+      "resolution": "768x512",
+      "palette": "assets/palettes/2025-11-17_neon-city.json"
+    },
+    {
+      "prompt": "ultra wide shot of a neon-lit mega city at dusk, reflective rain-soaked streets, volumetric fog, glowing holographic billboards, cinematic lighting, vibrant magenta and cyan color palette, sharp focus, detailed architecture, 35mm lens, film grain, soft rain, rush hour crowds, street vendor stall with warm lanterns",
+      "negative_prompt": "low detail, deformed, distorted, text, watermark, logo, low resolution, oversaturated, noisy background, monochrome",
+      "steps": 35,
+      "cfg_scale": 7.5,
+      "sampler": "DPM++ 2M Karras",
+      "resolution": "768x512",
+      "palette": "assets/palettes/2025-11-17_neon-city.json"
+    },
+    {
+      "prompt": "ultra wide shot of a neon-lit mega city at dusk, reflective rain-soaked streets, volumetric fog, glowing holographic billboards, cinematic lighting, vibrant magenta and cyan color palette, sharp focus, detailed architecture, 35mm lens, film grain, humid haze, empty boulevard, solitary figure holding an umbrella",
+      "negative_prompt": "low detail, deformed, distorted, text, watermark, logo, low resolution, oversaturated, noisy background, monochrome",
+      "steps": 35,
+      "cfg_scale": 7.5,
+      "sampler": "DPM++ 2M Karras",
+      "resolution": "768x512",
+      "palette": "assets/palettes/2025-11-17_neon-city.json"
+    },
+    {
+      "prompt": "ultra wide shot of a neon-lit mega city at dusk, reflective rain-soaked streets, volumetric fog, glowing holographic billboards, cinematic lighting, vibrant magenta and cyan color palette, sharp focus, detailed architecture, 35mm lens, film grain, humid haze, empty boulevard, sleek hover car trail",
+      "negative_prompt": "low detail, deformed, distorted, text, watermark, logo, low resolution, oversaturated, noisy background, monochrome",
+      "steps": 35,
+      "cfg_scale": 7.5,
+      "sampler": "DPM++ 2M Karras",
+      "resolution": "768x512",
+      "palette": "assets/palettes/2025-11-17_neon-city.json"
+    },
+    {
+      "prompt": "ultra wide shot of a neon-lit mega city at dusk, reflective rain-soaked streets, volumetric fog, glowing holographic billboards, cinematic lighting, vibrant magenta and cyan color palette, sharp focus, detailed architecture, 35mm lens, film grain, humid haze, empty boulevard, street vendor stall with warm lanterns",
+      "negative_prompt": "low detail, deformed, distorted, text, watermark, logo, low resolution, oversaturated, noisy background, monochrome",
+      "steps": 35,
+      "cfg_scale": 7.5,
+      "sampler": "DPM++ 2M Karras",
+      "resolution": "768x512",
+      "palette": "assets/palettes/2025-11-17_neon-city.json"
+    },
+    {
+      "prompt": "ultra wide shot of a neon-lit mega city at dusk, reflective rain-soaked streets, volumetric fog, glowing holographic billboards, cinematic lighting, vibrant magenta and cyan color palette, sharp focus, detailed architecture, 35mm lens, film grain, humid haze, hover traffic, solitary figure holding an umbrella",
+      "negative_prompt": "low detail, deformed, distorted, text, watermark, logo, low resolution, oversaturated, noisy background, monochrome",
+      "steps": 35,
+      "cfg_scale": 7.5,
+      "sampler": "DPM++ 2M Karras",
+      "resolution": "768x512",
+      "palette": "assets/palettes/2025-11-17_neon-city.json"
+    },
+    {
+      "prompt": "ultra wide shot of a neon-lit mega city at dusk, reflective rain-soaked streets, volumetric fog, glowing holographic billboards, cinematic lighting, vibrant magenta and cyan color palette, sharp focus, detailed architecture, 35mm lens, film grain, humid haze, hover traffic, sleek hover car trail",
+      "negative_prompt": "low detail, deformed, distorted, text, watermark, logo, low resolution, oversaturated, noisy background, monochrome",
+      "steps": 35,
+      "cfg_scale": 7.5,
+      "sampler": "DPM++ 2M Karras",
+      "resolution": "768x512",
+      "palette": "assets/palettes/2025-11-17_neon-city.json"
+    },
+    {
+      "prompt": "ultra wide shot of a neon-lit mega city at dusk, reflective rain-soaked streets, volumetric fog, glowing holographic billboards, cinematic lighting, vibrant magenta and cyan color palette, sharp focus, detailed architecture, 35mm lens, film grain, humid haze, hover traffic, street vendor stall with warm lanterns",
+      "negative_prompt": "low detail, deformed, distorted, text, watermark, logo, low resolution, oversaturated, noisy background, monochrome",
+      "steps": 35,
+      "cfg_scale": 7.5,
+      "sampler": "DPM++ 2M Karras",
+      "resolution": "768x512",
+      "palette": "assets/palettes/2025-11-17_neon-city.json"
+    },
+    {
+      "prompt": "ultra wide shot of a neon-lit mega city at dusk, reflective rain-soaked streets, volumetric fog, glowing holographic billboards, cinematic lighting, vibrant magenta and cyan color palette, sharp focus, detailed architecture, 35mm lens, film grain, humid haze, rush hour crowds, solitary figure holding an umbrella",
+      "negative_prompt": "low detail, deformed, distorted, text, watermark, logo, low resolution, oversaturated, noisy background, monochrome",
+      "steps": 35,
+      "cfg_scale": 7.5,
+      "sampler": "DPM++ 2M Karras",
+      "resolution": "768x512",
+      "palette": "assets/palettes/2025-11-17_neon-city.json"
+    },
+    {
+      "prompt": "ultra wide shot of a neon-lit mega city at dusk, reflective rain-soaked streets, volumetric fog, glowing holographic billboards, cinematic lighting, vibrant magenta and cyan color palette, sharp focus, detailed architecture, 35mm lens, film grain, humid haze, rush hour crowds, sleek hover car trail",
+      "negative_prompt": "low detail, deformed, distorted, text, watermark, logo, low resolution, oversaturated, noisy background, monochrome",
+      "steps": 35,
+      "cfg_scale": 7.5,
+      "sampler": "DPM++ 2M Karras",
+      "resolution": "768x512",
+      "palette": "assets/palettes/2025-11-17_neon-city.json"
+    },
+    {
+      "prompt": "ultra wide shot of a neon-lit mega city at dusk, reflective rain-soaked streets, volumetric fog, glowing holographic billboards, cinematic lighting, vibrant magenta and cyan color palette, sharp focus, detailed architecture, 35mm lens, film grain, humid haze, rush hour crowds, street vendor stall with warm lanterns",
+      "negative_prompt": "low detail, deformed, distorted, text, watermark, logo, low resolution, oversaturated, noisy background, monochrome",
+      "steps": 35,
+      "cfg_scale": 7.5,
+      "sampler": "DPM++ 2M Karras",
+      "resolution": "768x512",
+      "palette": "assets/palettes/2025-11-17_neon-city.json"
+    },
+    {
+      "prompt": "ultra wide shot of a neon-lit mega city at dusk, reflective rain-soaked streets, volumetric fog, glowing holographic billboards, cinematic lighting, vibrant magenta and cyan color palette, sharp focus, detailed architecture, 35mm lens, film grain, light snowfall, empty boulevard, solitary figure holding an umbrella",
+      "negative_prompt": "low detail, deformed, distorted, text, watermark, logo, low resolution, oversaturated, noisy background, monochrome",
+      "steps": 35,
+      "cfg_scale": 7.5,
+      "sampler": "DPM++ 2M Karras",
+      "resolution": "768x512",
+      "palette": "assets/palettes/2025-11-17_neon-city.json"
+    },
+    {
+      "prompt": "ultra wide shot of a neon-lit mega city at dusk, reflective rain-soaked streets, volumetric fog, glowing holographic billboards, cinematic lighting, vibrant magenta and cyan color palette, sharp focus, detailed architecture, 35mm lens, film grain, light snowfall, empty boulevard, sleek hover car trail",
+      "negative_prompt": "low detail, deformed, distorted, text, watermark, logo, low resolution, oversaturated, noisy background, monochrome",
+      "steps": 35,
+      "cfg_scale": 7.5,
+      "sampler": "DPM++ 2M Karras",
+      "resolution": "768x512",
+      "palette": "assets/palettes/2025-11-17_neon-city.json"
+    },
+    {
+      "prompt": "ultra wide shot of a neon-lit mega city at dusk, reflective rain-soaked streets, volumetric fog, glowing holographic billboards, cinematic lighting, vibrant magenta and cyan color palette, sharp focus, detailed architecture, 35mm lens, film grain, light snowfall, empty boulevard, street vendor stall with warm lanterns",
+      "negative_prompt": "low detail, deformed, distorted, text, watermark, logo, low resolution, oversaturated, noisy background, monochrome",
+      "steps": 35,
+      "cfg_scale": 7.5,
+      "sampler": "DPM++ 2M Karras",
+      "resolution": "768x512",
+      "palette": "assets/palettes/2025-11-17_neon-city.json"
+    },
+    {
+      "prompt": "ultra wide shot of a neon-lit mega city at dusk, reflective rain-soaked streets, volumetric fog, glowing holographic billboards, cinematic lighting, vibrant magenta and cyan color palette, sharp focus, detailed architecture, 35mm lens, film grain, light snowfall, hover traffic, solitary figure holding an umbrella",
+      "negative_prompt": "low detail, deformed, distorted, text, watermark, logo, low resolution, oversaturated, noisy background, monochrome",
+      "steps": 35,
+      "cfg_scale": 7.5,
+      "sampler": "DPM++ 2M Karras",
+      "resolution": "768x512",
+      "palette": "assets/palettes/2025-11-17_neon-city.json"
+    },
+    {
+      "prompt": "ultra wide shot of a neon-lit mega city at dusk, reflective rain-soaked streets, volumetric fog, glowing holographic billboards, cinematic lighting, vibrant magenta and cyan color palette, sharp focus, detailed architecture, 35mm lens, film grain, light snowfall, hover traffic, sleek hover car trail",
+      "negative_prompt": "low detail, deformed, distorted, text, watermark, logo, low resolution, oversaturated, noisy background, monochrome",
+      "steps": 35,
+      "cfg_scale": 7.5,
+      "sampler": "DPM++ 2M Karras",
+      "resolution": "768x512",
+      "palette": "assets/palettes/2025-11-17_neon-city.json"
+    },
+    {
+      "prompt": "ultra wide shot of a neon-lit mega city at dusk, reflective rain-soaked streets, volumetric fog, glowing holographic billboards, cinematic lighting, vibrant magenta and cyan color palette, sharp focus, detailed architecture, 35mm lens, film grain, light snowfall, hover traffic, street vendor stall with warm lanterns",
+      "negative_prompt": "low detail, deformed, distorted, text, watermark, logo, low resolution, oversaturated, noisy background, monochrome",
+      "steps": 35,
+      "cfg_scale": 7.5,
+      "sampler": "DPM++ 2M Karras",
+      "resolution": "768x512",
+      "palette": "assets/palettes/2025-11-17_neon-city.json"
+    },
+    {
+      "prompt": "ultra wide shot of a neon-lit mega city at dusk, reflective rain-soaked streets, volumetric fog, glowing holographic billboards, cinematic lighting, vibrant magenta and cyan color palette, sharp focus, detailed architecture, 35mm lens, film grain, light snowfall, rush hour crowds, solitary figure holding an umbrella",
+      "negative_prompt": "low detail, deformed, distorted, text, watermark, logo, low resolution, oversaturated, noisy background, monochrome",
+      "steps": 35,
+      "cfg_scale": 7.5,
+      "sampler": "DPM++ 2M Karras",
+      "resolution": "768x512",
+      "palette": "assets/palettes/2025-11-17_neon-city.json"
+    },
+    {
+      "prompt": "ultra wide shot of a neon-lit mega city at dusk, reflective rain-soaked streets, volumetric fog, glowing holographic billboards, cinematic lighting, vibrant magenta and cyan color palette, sharp focus, detailed architecture, 35mm lens, film grain, light snowfall, rush hour crowds, sleek hover car trail",
+      "negative_prompt": "low detail, deformed, distorted, text, watermark, logo, low resolution, oversaturated, noisy background, monochrome",
+      "steps": 35,
+      "cfg_scale": 7.5,
+      "sampler": "DPM++ 2M Karras",
+      "resolution": "768x512",
+      "palette": "assets/palettes/2025-11-17_neon-city.json"
+    },
+    {
+      "prompt": "ultra wide shot of a neon-lit mega city at dusk, reflective rain-soaked streets, volumetric fog, glowing holographic billboards, cinematic lighting, vibrant magenta and cyan color palette, sharp focus, detailed architecture, 35mm lens, film grain, light snowfall, rush hour crowds, street vendor stall with warm lanterns",
+      "negative_prompt": "low detail, deformed, distorted, text, watermark, logo, low resolution, oversaturated, noisy background, monochrome",
+      "steps": 35,
+      "cfg_scale": 7.5,
+      "sampler": "DPM++ 2M Karras",
+      "resolution": "768x512",
+      "palette": "assets/palettes/2025-11-17_neon-city.json"
+    }
+  ]
+}

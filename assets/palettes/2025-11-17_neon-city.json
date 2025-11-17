@@ -1,0 +1,11 @@
+{
+  "name": "Neon City Dreamscape",
+  "description": "Magenta/cyan dominant palette with warm accent lights for cyberpunk cityscapes.",
+  "colors": [
+    { "name": "Night Sky", "hex": "#090B2E" },
+    { "name": "Neon Magenta", "hex": "#FF2FD1" },
+    { "name": "Electric Cyan", "hex": "#37F4FF" },
+    { "name": "Amber Glow", "hex": "#FF9E1F" },
+    { "name": "Concrete Blue", "hex": "#1A2A4A" }
+  ]
+}
